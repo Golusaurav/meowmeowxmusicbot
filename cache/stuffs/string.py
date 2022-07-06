@@ -41,7 +41,7 @@ t4 = """
 """
 
 
-t5 = """Hey {},\n\nHere is the source code of {} \nSo deploy your own and enjoy and don't forget to fork nd to give star 😕!!"""
+t5 = """Hey {},\n\nFor repo or source code dm / pm here @mujhse_dosti_karlo \nSo deploy your own and enjoy and don't forget to fork nd to give star 😕!!"""
 
 
 ptxt1 = "<b><i>Pinging...</i></b>"
