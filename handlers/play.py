@@ -177,11 +177,11 @@ async def play(_, message: Message):
                             text="ᴍᴇᴏᴡ😻ᴏᴡɴᴇʀ",
                             url=f"https://t.me/mujhse_dosti_karlo"),
                     InlineKeyboardButton(
-                            text="ᴜᴘᴅᴀᴛs👾",
-                            url=f"https://t.me/SILENT_BOTS"),
+                            text="ᴄʜᴀɴɴᴇʟ😽",
+                            url=f"https://t.me/billufeelings"),
                ],
                [
-                   InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
+                   InlineKeyboardButton(text="ᴄʟᴏsᴇ ᴍᴇɴᴜ", callback_data="close_"),                   
                ],
             ]
         )
@@ -218,42 +218,42 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="ᴛᴇᴀᴍ-sɪʟᴇɴᴛ🥀",
-                            url=f"https://t.me/SILENT_DEVS"),
+                            text="ᴍᴇᴏᴡ😻ᴏᴡɴᴇʀ",
+                            url=f"https://t.me/mujhse_dosti_karlo"),
                     InlineKeyboardButton(
-                            text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/SILENT_BOTS"),
+                            text="ᴄʜᴀɴɴᴇʟ😽",
+                            url=f"https://t.me/billufeelings"),
                ],
                [
-                   InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
+                   InlineKeyboardButton(text="ᴄʟᴏsᴇ ᴍᴇɴᴜ", callback_data="close_"),                   
                ],
             ]
         )
     
         except Exception as e:
             title = "NaN"
-            thumb_name = "https://telegra.ph/file/9350788513346feef5087.jpg"
+            thumb_name = "https://telegra.ph/file/7fcf891a0b79fc9e7b031.jpg"
             duration = "NaN"
             views = "NaN"
             keyboard = InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                            text="ᴛᴇᴀᴍ-sɪʟᴇɴᴛ🥀",
-                            url=f"https://t.me/SILENT_DEVS"),
+                            text="ᴍᴇᴏᴡ😻ᴏᴡɴᴇʀ",
+                            url=f"https://t.me/mujhse_dosti_karlo"),
                     InlineKeyboardButton(
-                            text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/SILENT_BOTS"),
+                            text="ᴄʜᴀɴɴᴇʟ😽",
+                            url=f"https://t.me/billufeelings"),
                ],
                [
-                   InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
+                   InlineKeyboardButton(text="ᴄʟᴏsᴇ ᴍᴇɴᴜ", callback_data="close_"),                   
                ],
             ]
         )
     
         if (dur / 360) > DURATION_LIMIT:
             await lel.edit(
-                f"**ɢɪᴠᴇɴ ǫᴜᴀʀʏ ɪᴢ ʟᴏɴɢᴇʀ ᴛʜᴀɴ {DURATION_LIMIT} ᴛᴀᴛ ᴀʀᴇɴ'ᴛ ᴀʟʟᴏᴡ ᴛᴏ ᴘʟᴀʏ ᴅᴜᴇ ᴛᴏ ʜᴀᴠᴇʏ ᴜsᴀɢᴇ😕🤷‍♀️**"
+                f"**ɢɪᴠᴇɴ ǫᴜᴀʀʏ ɪᴢ ʟᴏɴɢᴇʀ ᴛʜᴀɴ {DURATION_LIMIT} ᴛᴀᴛ ᴀʀᴇɴ'ᴛ ᴀʟʟᴏᴡ ᴛᴏ ᴘʟᴀʏ ᴅᴜᴇ ᴛᴏ ʜᴇᴀᴠʏ ᴜsᴀɢᴇ😕🤷‍♀️**"
             )
             return
         requested_by = message.from_user.first_name
@@ -289,7 +289,7 @@ async def play(_, message: Message):
 
         except Exception as e:
             await lel.edit(
-                "**ɴᴛɢ ɪᴢ ғᴏᴜɴᴅ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ǫᴜᴇʀʏ ɴᴀᴍᴇ ɴᴅ ᴛʀʏ ᴀɢᴀɪɴ🧚‍♀️.**"
+                "**ɴᴛɢ ɪᴢ ғᴏᴜɴᴅ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ǫᴜᴇʀʏ ɴᴀᴍᴇ ɴᴅ ᴛʀʏ ᴀɢᴀɪɴ😼.**"
             )
             print(str(e))
             return
@@ -298,21 +298,21 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="ᴛᴇᴀᴍ-sɪʟᴇɴᴛ🥀",
-                            url=f"https://t.me/SILENT_DEVS"),
+                            text="ᴍᴇᴏᴡ😻ᴏᴡɴᴇʀ",
+                            url=f"https://t.me/mujhse_dosti_karlo"),
                     InlineKeyboardButton(
-                            text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/SILENT_BOTS"),
+                            text="ᴄʜᴀɴɴᴇʟ😽",
+                            url=f"https://t.me/billufeelings"),
                ],
                [
-                   InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
+                   InlineKeyboardButton(text="ᴄʟᴏsᴇ ᴍᴇɴᴜ", callback_data="close_"),                   
                ],               
             ]
         )
     
         if (dur / 60) > DURATION_LIMIT:
             await lel.edit(
-                f"**ɢɪᴠᴇɴ ǫᴜᴀʀʏ ɪᴢ ʟᴏɴɢᴇʀ ᴛʜᴀɴ {DURATION_LIMIT} ᴛᴀᴛ ᴀʀᴇɴ'ᴛ ᴀʟʟᴏᴡ ᴛᴏ ᴘʟᴀʏ ᴅᴜᴇ ᴛᴏ ʜᴀᴠᴇʏ ᴜsᴀɢᴇ😕🤷‍♀️**"
+                f"**ɢɪᴠᴇɴ ǫᴜᴀʀʏ ɪᴢ ʟᴏɴɢᴇʀ ᴛʜᴀɴ {DURATION_LIMIT} ᴍᴇᴏᴡ ᴅᴏɴ'ᴛ ᴀʟʟᴏᴡ ᴛᴏ ᴘʟᴀʏ ᴅᴜᴇ ᴛᴏ ʜᴇᴀᴠʏ ᴜsᴀɢᴇ😕🤷‍♀️**"
             )
             return
         requested_by = message.from_user.first_name
@@ -326,7 +326,7 @@ async def play(_, message: Message):
         position = await queues.put(chat_id, file=file_path)      
         await message.reply_photo(
             photo="final.png",
-            caption="****ᴏᴋᴋ, ʏᴏᴜʀ sᴏɴɢ ɪᴢ ᴀᴅᴅᴇᴅ ɪɴ ᴛʜᴇ ǫᴜᴇᴜᴇ🥀💖 \n\nʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ: {} \nᴘᴏsɪᴛɪᴏɴ :-** {}**".format(usrid, position),
+            caption="****ᴏᴋᴋ, ʏᴏᴜʀ sᴏɴɢ ɪᴢ ᴀᴅᴅᴇᴅ ɪɴ ᴛʜᴇ ǫᴜᴇᴜᴇ😻❤️🙈 \n\nʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ: {} \nᴘᴏsɪᴛɪᴏɴ :-** {}**".format(usrid, position),
             reply_markup=keyboard,
         )
         await message.delete()
@@ -345,7 +345,7 @@ async def play(_, message: Message):
         await message.reply_photo(
             photo="final.png",
             reply_markup=keyboard,
-            caption="**ɴᴏᴡ ɪ ᴍ ᴘʟᴀʏɪɴɢ ᴛʜᴇ ǫᴜᴇᴜᴇᴅ sᴏɴɢ💖🧚‍♀️.\n\nᴘʟᴀʏɪɴɢ ᴀᴛ🧚‍♀️ :- `{}`...**\nʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ: {}".format(
+            caption="**ɴᴏᴡ ɪ ᴍ ᴘʟᴀʏɪɴɢ ᴛʜᴇ ǫᴜᴇᴜᴇᴅ sᴏɴɢ😻❤️🙈.\n\nᴘʟᴀʏɪɴɢ ᴀᴛ✨ :- `{}`...**\nʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ: {}".format(
         message.chat.title, usrid
         ), )
         
