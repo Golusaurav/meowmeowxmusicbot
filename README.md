@@ -40,9 +40,9 @@
 </pre></p>
 
 
-<h6><b><i><u>Here Devu Robot Which can handle Your group safely Nd play lag free Music too Check Out this too</u></i></b></h6>
-<p><a href='https://t.me/DEVU_ROBOT'><img src="https://img.shields.io/badge/Devu_Robot-black?style=for-the-badge&logo=telegram&logoColor=black"></a>
-<a href="https://t.me/ShiningOff"><img src="https://img.shields.io/badge/Developer%20%20-black?style=for-the-badge&logo=telegram"></a></p>
+<h6><b><i><u>Here meow Robot Which can handle Your group safely Nd play lag free Music too Check Out this too</u></i></b></h6>
+<p><a href='https://t.me/meowmeowxmusicbot'><img src="https://img.shields.io/badge/Meow_music-black?style=for-the-badge&logo=telegram&logoColor=black"></a>
+<a href="https://t.me/mujhse_dosti_karlo"><img src="https://img.shields.io/badge/Developer%20%20-black?style=for-the-badge&logo=telegram"></a></p>
 
 
 <p><code>##This Project Under</code> <pre> <a href="https://t.me/mujhse_dosti_karlo"><img src="https://img.shields.io/badge/owner-keep%20%20laughing-blue?style=for-the-badge&logo=telegram"></a></pre>
