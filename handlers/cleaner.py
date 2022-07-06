@@ -19,7 +19,7 @@ async def clear_downloads(_, message: Message):
     if ls_dir:
         for file in os.listdir(downloads):
             os.remove(os.path.join(downloads, file))
-        await message.reply_text("`🗑️ʀᴇᴍᴏᴠᴇᴅ ᴀʟʟ ғɪʟᴇs ғʀᴏᴍ ᴅᴏᴡɴʟᴏᴀᴅ`")
+        await message.reply_text("`🗑️ʀᴇᴍᴏᴠᴇᴅ ᴀʟʟ ғɪʟᴇs ғʀᴏᴍ ᴍᴇᴏᴡ ᴍᴇᴏᴡ ᴅᴏᴡɴʟᴏᴀᴅ`")
     else:
         await message.reply_text("`sʜʜ, ɴᴛɢ ɪs ғᴏᴜɴᴅ ᴛᴏ ᴄʟᴇᴀɴ🙄`")
 
@@ -32,7 +32,7 @@ async def clear_raw(_, message: Message):
     if ls_dir:
         for file in os.listdir(raw_files):
             os.remove(os.path.join(raw_files, file))
-        await message.reply_text("`ᴄʟᴇᴀɴɪɴɢ sɪʟᴇɴᴛ ᴅʙ🗑️`")
+        await message.reply_text("`ᴄʟᴇᴀɴɪɴɢ ᴍᴇᴏᴡ ᴅʙ🗑️`")
     else:
         await message.reply_text("`ᴀʟʀᴇᴀᴅʏ ᴄʟᴇᴀɴᴇᴅ🙋‍♀️`")
 
@@ -46,6 +46,6 @@ async def cleanup(_, message: Message):
     if ls_dir:
         for dta in os.listdir(pth):
             os.system("rm -rf *.webm *.jpg")
-        await message.reply_text("`🧚‍♀️ʜᴜʜ ᴄʟᴇᴀɴᴇᴅ`")
+        await message.reply_text("`😺ᴍᴇᴏᴡ ᴍᴇᴏᴡ ᴄʟᴇᴀɴᴇᴅ`")
     else:
         await message.reply_text("`💬ғɪɴᴇ, ᴀʟʟ ᴏᴋ ᴀʟʀᴇᴀᴅʏ`")
